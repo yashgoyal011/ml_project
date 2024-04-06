@@ -51,7 +51,7 @@ The performance of SVM kernels:
 | RBF      | 0.722619 | 0.932758 | 0.020916  |
 | Sigmoid  | 0.756065 | 1.017065 | -0.067579 |
 
-![Real and Predicted Temperature](temp3.jpg)
+![Real and Predicted Temperature](temp_ml.jpg)
 
 ## Conclusion
 
