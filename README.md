@@ -59,9 +59,9 @@ Our project underscores the efficacy of SVM for real-time temperature forecastin
 
 ## Contributors
 
-- John Doe (johndoe@example.com)
-- Jane Smith (janesmith@example.com)
+- Yash Goyal   (yashgoyal01102003@gmail.com)
+- Khush Pandya (khushpandya705@gmail.com)
+- Archit Shah  (u21ec127@eced.svnit.ac.in)
 
----
 
 Feel free to customize the content according to your project's specifics. Make sure to include any additional instructions or information that might be helpful for users.
